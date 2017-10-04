@@ -35,7 +35,7 @@
     "prepublish": "node build/amd2common.js"
   },
   "dependencies": {
-    "zrender": "^3.6.1"
+    "zrender": "3.6.1"
   },
   "devDependencies": {
     "coordtransform": "^2.0.2",
